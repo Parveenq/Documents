@@ -1,47 +1,57 @@
-<h1 align="center">Welcome to Manuals</h1>
-<Xml>
+<h1 align="center">Technical Writing Samples</h1>
+
 <p align="center">
-  <img 
-    src="https://i.pinimg.com/originals/5c/0f/68/5c0f6834e0f766121ee18a619243debc.gif" 
-    alt="Animated image" 
-    width="400" 
-    height='300'
-  >
+  Documentation samples by <a href="https://github.com/Parveenq">Nusrat Parveen</a>, technical writer based in Bengaluru.<br>
+  Each sample takes a product or process and breaks it into clear, easy-to-follow steps for its intended audience.
 </p>
-  
-Welcome to my collection of manuals. Here, complex data is broken down into simple to follow steps. 
 
-## Type of Manuals
-Click the link to follow the doc
+<p align="center">
+  <a href="#samples">Samples</a> ·
+  <a href="#about-these-samples">About these samples</a> ·
+  <a href="#contact">Contact</a>
+</p>
 
-- User Manual
-- Instruction Manual
-- How to
-- Technical Manual
-- Standard Operating Procedures
+<hr>
 
-## About me
-Hi. My name is Parveen. I find joy in writing about things that inspire me, such as technology, cinema, books, travel, daily life, food...
+<h2 id="samples">Samples</h2>
 
-## Contact Information / Socials
-- Email: nusi8586@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/nusrat-p-942428230/)
-- [GitHub](https://github.com/Parveenq)
+<table>
+  <thead>
+    <tr>
+      <th>Document</th>
+      <th>Type</th>
+      <th>Audience</th>
+      <th>What it covers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="Google-Keep-User-Manual.md"><b>Google Keep User Manual</b></a></td>
+      <td>User manual</td>
+      <td>New Google Keep users</td>
+      <td>Creating text, checklist, voice, image, and drawing notes; labels and colours; collaborators; reminders; search; archiving</td>
+    </tr>
+    <tr>
+      <td><a href="IT-Governance-and-Controls-SOP.md"><b>IT Governance and Controls SOP</b></a></td>
+      <td>Standard operating procedure</td>
+      <td>IT audit reviewers</td>
+      <td>Quarterly access-control audits across G Suite, AWS, databases, Jira, GitHub, and internal applications, with sign-off responsibilities</td>
+    </tr>
+  </tbody>
+</table>
 
 
-## Projects 
+<h2 id="about-these-samples">About these samples</h2>
 
-## Skills
-- Markdown
-- HTML
-- Confluence
-- Jira
-- Technical Writing
-- Content Writing
+<p>
+  These docs-as-code samples were written to demonstrate documentation skills in Markdown and HTML. 
 
-## Certifications and Awards
-- Certificate of HTML 2026
-- Certificate of Markdown 2026
-- Certificate of Technical Writing 2024
-- Award for Most Versatile Writer 2022
+  Please contact for more samples / portfolio.
+</p>
 
+<h2 id="contact">Contact</h2>
+
+<p>
+  <a href="https://www.linkedin.com/in/nusrat-p-942428230/">LinkedIn</a> ·
+  <a href="https://github.com/Parveenq">GitHub profile</a>
+</p>
