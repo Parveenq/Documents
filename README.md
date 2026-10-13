@@ -1,8 +1,7 @@
-<h1 align="center">Technical Writing Samples</h1>
+<h1 align="center">Technical Document Samples</h1>
 
 <p align="center">
-  Documentation samples by <a href="https://github.com/Parveenq">Nusrat Parveen</a>, technical writer based in Bengaluru.<br>
-  Each sample takes a product or process and breaks it into clear, easy-to-follow steps for its intended audience.
+  Documentation samples. Each sample takes a product or process and breaks it into clear, easy-to-follow steps for its intended audience.
 </p>
 
 <p align="center">
