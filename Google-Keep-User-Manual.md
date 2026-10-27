@@ -25,7 +25,7 @@ Keep is available on **Android**, **iOS**, and the **web**. To use it, sign in w
 
 ## Features
 
-Keep has a number of features that make it a powerful note-taking app:
+Keep has several features that make it a powerful note-taking app:
 
 - **Multiple note formats:** Create notes as text, images, checklists, voice recordings, or drawings.
 - **Labels:** Organise notes by topic or project.
@@ -41,14 +41,14 @@ Keep has a number of features that make it a powerful note-taking app:
 
 The toolbar at the bottom of the screen gives you quick access to each note type:
 
-![Google Keep toolbar showing the Lists, Paint, Record Voice, and Insert Image buttons, with the New Note button on the right](images/new-note-toolbar.png)
+![Google Keep toolbar showing the Lists, Paint, Record Voice, and Insert Image buttons, with the New Note button on the right](new-note-toolbar.png)
 
 ## Creating notes
 
-| Note type | How to create it |
-|-----------|------------------|
-| Text | Tap **+** and type your note into the text field. |
-| Checklist | Tap the **Lists** icon and start adding items. |
+|  Note type   | How to create it |
+|--------------|--------------|
+| Text  | Tap **+** and type your note into the text field. |
+| Checklist   | Tap the **Lists** icon and start adding items. |
 | Voice | Tap the **Record Voice** (microphone) icon and start speaking. Keep saves the recording and a transcript. |
 | Image | Tap the **Insert Image** icon, then take a photo or choose one from your device. |
 | Drawing | Tap the **Paint** icon and start sketching. |
@@ -57,7 +57,7 @@ The toolbar at the bottom of the screen gives you quick access to each note type
 
 ## Organising notes
 
-<img src="images/icon-label.png" alt="Label icon" width="40">
+<img src="icon-label.png" alt="Label icon" width="40">
 
 **To add a label:**
 
@@ -73,7 +73,7 @@ The toolbar at the bottom of the screen gives you quick access to each note type
 
 ## Sharing notes
 
-<img src="images/icon-share.png" alt="Share icon" width="40">
+<img src="icon-share.png" alt="Share icon" width="40">
 
 **To add a collaborator:**
 
@@ -87,7 +87,7 @@ Collaborators can view and edit the note, and changes appear for everyone.
 
 ## Setting reminders
 
-<img src="images/icon-reminder.png" alt="Reminder icon" width="40">
+<img src="icon-reminder.png" alt="Reminder icon" width="40">
 
 1. Open the note.
 2. Tap the **reminder** (bell) icon.
@@ -96,13 +96,13 @@ Collaborators can view and edit the note, and changes appear for everyone.
 
 ## Searching for notes
 
-<img src="images/icon-search.png" alt="Search icon" width="40">
+<img src="icon-search.png" alt="Search icon" width="40">
 
 Tap the search bar at the top of the screen and type your search terms. You can find notes by their text, or filter them by label, colour, or type (such as lists or images).
 
 ## Archiving notes
 
-<img src="images/icon-archive.png" alt="Archive icon" width="40">
+<img src="icon-archive.png" alt="Archive icon" width="40">
 
 Archiving moves a note off your main screen without deleting it, so you can keep things tidy and still refer back later.
 
