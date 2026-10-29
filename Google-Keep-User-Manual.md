@@ -1,5 +1,5 @@
-# Google Keep User Manual
-
+ # Google Keep User Manual 
+<img src="https://w7.pngwing.com/pngs/214/295/png-transparent-keep-google-google-apps-docs-editor-suite-icon-thumbnail.png" alt="Google Keep icon" widgth="60" height="60">  
 A beginner's guide to creating, organising, and sharing notes with Google Keep.
 
 ## Contents
@@ -57,7 +57,7 @@ The toolbar at the bottom of the screen gives you quick access to each note type
 
 ## Organising notes
 
-<img src="icon-label.png" alt="Label icon" width="40">
+<img src="https://github.com/Parveenq/Documents/blob/Doc-Images/icon-label.png" alt="Label icon" width="40">
 
 **To add a label:**
 
